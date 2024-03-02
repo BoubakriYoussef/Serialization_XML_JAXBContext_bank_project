@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<releve>
+    <rib>4232</rib>
+    <dateReleve>2024-03-02T11:57:34.744+01:00</dateReleve>
+    <solde>7600.0</solde>
+    <operation type="DEBIT" date="2024-03-02T11:57:34.745+01:00" montant="288.0" description="Desc"/>
+    <operation type="CREDIT" date="2024-03-02T11:57:34.745+01:00" montant="5400.0" description="Asc"/>
+    <operation type="DEBIT" date="2024-03-02T11:57:34.745+01:00" montant="988.0" description="Desc"/>
+</releve>
